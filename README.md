@@ -15,16 +15,8 @@ Mechanical Design Engineer specializing in robust structural nodes, equipment en
 
 ---
 
-## 📂 Key Portfolio Projects
-
-1. **[Heavy-Duty Structural Bracket & FEA Validation](./bracket-project)**
-   * Optimized load-bearing bracket designed for static/dynamic loads with full Fusion 360 stress analysis report and safety factor evaluation.
-2. **[Sheet Metal Equipment Enclosure](./enclosure-project)**
-   * Modular electronic enclosure designed for laser cutting and bending, featuring optimized fastener placement and ventilation.
-
----
-
 ## 📬 Connect with Me
 
-- **Location:** Yerevan, Armenia
 - **Primary Workflows:** Fusion 360 | Rhino 8 | КОМПАС-3D | DIALux EVO
+
+- **Email:** [aachilov00@gmail.com](mailto:aachilov00@gmail.com)
