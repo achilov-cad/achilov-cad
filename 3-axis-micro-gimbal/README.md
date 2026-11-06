@@ -4,14 +4,6 @@ A compact, 3-axis articulated gimbal mechanism engineered for lightweight FPV ca
 
 ---
 
-## 📸 Mechanism Overview
-
-<p align="center">
-  <img src="render_main.png" width="80%" alt="3-Axis Servo Gimbal Assembly" />
-</p>
-
----
-
 ## 📐 Engineering & Kinematic Features
 
 * **3-DOF Articulation:** Complete 3-axis motion coverage (Yaw, Pitch, Roll) utilizing lightweight micro servos for fast response.
