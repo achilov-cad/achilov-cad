@@ -2,8 +2,6 @@
 
 Engineering project focused on reconstructing smooth Class-B CAD surfaces from a raw 3D scan and designing a two-piece stamping die set (**Matrix + Punch**) for forming **1.0 mm** sheet metal.
 
-![Stamping Die Section Analysis](images/03_stamp_section.png)
-
 ## 🎯 Project Objectives
 1. Convert a noisy polygonal 3D scan (`.stl`) of a double-curved automotive body panel with a fuel door recess into a clean, watertight parametric CAD model (`.step`).
 2. Design a matched **Matrix and Punch** tooling set suitable for 3D printing / CNC machining with a precise **1.0 mm** clearance gap for sheet metal stamping.
